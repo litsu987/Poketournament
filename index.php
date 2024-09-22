@@ -19,7 +19,7 @@ if (isset($_SESSION['username'])) {
 </head>
 <body>
     <div class="container">
-        <h1>Pokémon Tournament</h1>
+        <h1>Pokémon Login</h1>
         <h2>Login de Usuario</h2>
         <form action="login.php" method="post">
             <label for="username">Usuario:</label>
